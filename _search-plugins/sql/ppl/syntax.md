@@ -11,7 +11,7 @@ nav_order: 1
 Every PPL query starts with the `search` command. It specifies the index to search and retrieve documents from. Subsequent commands can follow in any order.
 
 Currently, `PPL` supports only one `search` command, which can be omitted to simplify the query.
-{ : .note}
+{: .note}
 
 ## Syntax
 
